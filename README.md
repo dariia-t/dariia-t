@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 🎓 I'm a recent graduate in Computer Science & Engineering from Lehigh University <br>
 💻 Interested in Full-Stack Development, Blockchain, and Parallel Computing <br>
-🧠 Always learning — from building scalable backend systems to optimizing GPU workloads <br>
 🌍 Passionate about using technology to solve real-world problems, especially in fintech and digital governance
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dariia-t) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tyshchenko.dariia@gmail.com) 
